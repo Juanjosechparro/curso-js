@@ -1,0 +1,1 @@
+const points = new Array(40);
